@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+
+
+>
+    
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp" 
+    android:layout_margin="5dp"
+
+    android:background="@drawable/customshape">
+
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textSize="17dp" 
+        android:text="Level 1" >
+    </TextView>
+    
+    <ImageView
+        android:id="@+id/lock"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/lock1" >
+    </ImageView>
+    
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="55dp"
+        android:textSize="17dp" 
+        android:text="94 secs" >
+    </TextView>
+    
+    <ImageView
+        android:id="@+id/star1"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/star_off" >
+    </ImageView>
+    
+    <ImageView
+        android:id="@+id/star2"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/star_off" >
+    </ImageView>
+    
+    <ImageView
+        android:id="@+id/star3"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/star_off" >
+    </ImageView> 
+    
+  
+</LinearLayout>
+
+</LinearLayout>

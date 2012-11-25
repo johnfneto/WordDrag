@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="red">#ff0000</color>
+	<color name="red2">#ff0033</color>
+	<color name="red3">#ff0066</color>
+	<color name="red4">#ff0099</color>
+	<color name="red5">#ff6666</color>
+	<color name="indian_red">#cd5c5c</color>
+	<color name="firebrick_red">#b22222</color>
+	<color name="chocolate">#d2691e</color>
+	<color name="hot_pink">#ff69b4</color>
+	<color name="deep_pink">#ff1493</color>
+	<color name="fuchsia">#993366</color>
+	<color name="crimson">#cc1559</color>
+	<color name="yellow">#ffff00</color>
+	<color name="green">#00ff00</color>
+	<color name="blue">#0000ff</color>
+	<color name="black">#000000</color>
+	<color name="gray">#c0c0c0</color>	
+	<color name="white">#ffffff</color>
+    <color name="menu_color">#FFFF0F</color>	
+    <color name="title_glow">#666666</color>	
+    <color name="menu_glow">#F00</color>
+    <color name="multi_choice_button_color">#2f4f4f</color>    
+    <color name="light_blue">#4169e1</color>
+    <color name="light_blue4">#8470ff</color>    
+    <color name="light_blue3">#6495ed</color>    
+    <color name="light_blue2">#00ccff</color>
+    <color name="logo_color">#FFFF0F</color>
+    <color name="title_color">#f0f0f0</color>   
+    <color name="midnight_blue">#003366</color>
+    <color name="mine_gray">#333333</color>
+</resources>
